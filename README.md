@@ -22,7 +22,7 @@ module.exports = {
   plugins: [
     // ...
     {
-      resolve: `gatsby-source-cloudinary-metadata`,
+      resolve: `@piducancore/gatsby-source-cloudinary-metadata`,
       options: {
         cloud_name: "YOUR_CLOUD_NAME", // required
         api_key: "YOUR_API_KEY", // required
