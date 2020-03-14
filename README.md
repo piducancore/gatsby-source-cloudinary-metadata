@@ -29,6 +29,7 @@ module.exports = {
         api_secret: "YOUR_API_SECRET", // required
         max_results: 500, // optional, default: 10
         prefix: `uploads/`, // optional
+        type: `upload`, // required if prefix param specified above, otherwise optional
       },
     },
   ],
