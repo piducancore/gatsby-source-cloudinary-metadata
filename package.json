@@ -1,25 +1,22 @@
 {
   "name": "@piducancore/gatsby-source-cloudinary-metadata",
+  "description": "This plugin turns your Cloudinary media files including its embedded metadata into Gatsby nodes.",
   "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
-    "cloudinary": "^1.18.1"
-  },
-  "description": "This plugin turns your Cloudinary media files including its embedded metadata into Gatsby nodes.",
+  "author": "@piducancore",
+  "homepage": "https://github.com/piducancore/gatsby-source-cloudinary-metadata#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/piducancore/gatsby-source-cloudinary-metadata.git"
   },
-  "author": "@piducancore",
   "bugs": {
     "url": "https://github.com/piducancore/gatsby-source-cloudinary-metadata/issues"
   },
-  "homepage": "https://github.com/piducancore/gatsby-source-cloudinary-metadata#readme",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "cloudinary": "^1.23.0"
   },
+  "devDependencies": {},
   "keywords": [
     "gatsby",
     "cloudinary",
