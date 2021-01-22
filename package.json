@@ -1,7 +1,7 @@
 {
   "name": "@piducancore/gatsby-source-cloudinary-metadata",
   "description": "This plugin turns your Cloudinary media files including its embedded metadata into Gatsby nodes.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "author": "@piducancore",
